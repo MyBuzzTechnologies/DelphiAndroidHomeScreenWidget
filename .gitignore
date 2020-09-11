@@ -1,0 +1,7 @@
+Debug
+widgettestapp
+*.local
+*.bak
+__history
+*.~dsk
+*.DS_Store

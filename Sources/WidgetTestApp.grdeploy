@@ -1,0 +1,47 @@
+{
+  "Configurations" : ["Release", "Debug"],
+  "iOS" : [],
+  "Android" : [{
+      "LocalName" : "..\\Widget\\res\\drawable-v24",
+      "RemoteDir" : "res\\drawable-v24\\",
+      "Configurations" : [],
+      "IsDirectory" : true,
+      "IncludeSubDirectories" : true
+    }, {
+      "LocalName" : "..\\Widget\\res\\layout",
+      "RemoteDir" : "res\\layout\\",
+      "Configurations" : [],
+      "IsDirectory" : true,
+      "IncludeSubDirectories" : true
+    }, {
+      "LocalName" : "..\\Widget\\res\\drawable-nodpi",
+      "RemoteDir" : "res\\drawable-nodpi\\",
+      "Configurations" : [],
+      "IsDirectory" : true,
+      "IncludeSubDirectories" : true
+    }, {
+      "LocalName" : "..\\Widget\\res\\values",
+      "RemoteDir" : "res\\values\\",
+      "Configurations" : [],
+      "IsDirectory" : true,
+      "IncludeSubDirectories" : true
+    }, {
+      "LocalName" : "..\\Widget\\res\\drawable",
+      "RemoteDir" : "res\\drawable\\",
+      "Configurations" : [],
+      "IsDirectory" : true,
+      "IncludeSubDirectories" : true
+    }, {
+      "LocalName" : "..\\Widget\\res\\values-v14",
+      "RemoteDir" : "res\\values-v14\\",
+      "Configurations" : [],
+      "IsDirectory" : true,
+      "IncludeSubDirectories" : true
+    }, {
+      "LocalName" : "..\\Widget\\res\\xml",
+      "RemoteDir" : "res\\xml\\",
+      "Configurations" : [],
+      "IsDirectory" : true,
+      "IncludeSubDirectories" : true
+    }]
+}

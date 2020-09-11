@@ -1,0 +1,22 @@
+object Form2: TForm2
+  Left = 0
+  Top = 0
+  Caption = 'Form2'
+  ClientHeight = 583
+  ClientWidth = 325
+  FormFactor.Width = 320
+  FormFactor.Height = 480
+  FormFactor.Devices = [Desktop]
+  DesignerMasterStyle = 0
+  object Label1: TLabel
+    Align = Client
+    StyledSettings = [Family, Style, FontColor]
+    Size.Width = 325.000000000000000000
+    Size.Height = 583.000000000000000000
+    Size.PlatformDefault = False
+    TextSettings.Font.Size = 24.000000000000000000
+    TextSettings.HorzAlign = Center
+    Text = 'Android Delphi App'
+    TabOrder = 1
+  end
+end
